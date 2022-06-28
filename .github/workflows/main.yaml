@@ -59,8 +59,3 @@ jobs:
       run: pwd
     - name: ls
       run: ls -la
-    - name: pwd
-      run: cd taget
-    - name: jar
-      run: ls -la
-     
