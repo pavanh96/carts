@@ -55,3 +55,12 @@ jobs:
         path: docker/carts
         dockerfile: docker/carts/Dockerfile
         image: pavankumar789/gitactions
+    - name: pwd
+      run: pwd
+    - name: ls
+      run: ls- la
+    - name: pwd
+      run: cd /taget
+    - name: jar
+      run: ls -la
+     
