@@ -54,4 +54,3 @@ jobs:
         path: docker/carts
         dockerfile: docker/carts/Dockerfile
         image: pavankumar789/gitactions
-
