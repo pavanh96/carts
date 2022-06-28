@@ -53,7 +53,7 @@ jobs:
        # tag_with_ref: true
         #tag_with_sha: true
         path: docker/carts
-        dockerfile: docker/carts/Dockerfile
+        #dockerfile: docker/carts/Dockerfile
         image: pavankumar789/gitactions
     - name: pwd
       run: pwd
